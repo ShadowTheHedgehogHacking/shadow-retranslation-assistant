@@ -1,0 +1,9 @@
+﻿<Application x:Class="shadow_retranslation_assistant.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:shadow_retranslation_assistant"
+             StartupUri="TranslationMapper.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
